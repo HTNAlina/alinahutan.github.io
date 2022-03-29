@@ -1,0 +1,58 @@
+  body {
+    height: 2px;
+    background-color: #FFE6E6;
+    color:#971549;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  h1, h2 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  ul {
+    margin-top: 40px;
+    margin-left: 550px;
+    display: table;
+    font-size: 25px;
+  }
+
+  #mail{
+    margin-left: 600px;
+    margin-top: 90px;
+  }
+
+  #reading { list-style-image: url(file:///C:/Users/ahuta/Downloads/book.svg); }
+  #travelling{ list-style-image: url(file:///C:/Users/ahuta/Downloads/plane.svg); }
+  #cooking { list-style-image: url(file:///C:/Users/ahuta/Downloads/pizza.svg); }
+
+  #m{
+    list-style-image: url(file:///C:/Users/ahuta/Downloads/facebook-messenger.svg);
+  }
+
+  #hobbies{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 430px;
+    margin-top: 100px;
+    
+  }
+
+
+  #img {
+    display: block;
+    margin-left: auto;
+    width: 300px;
+    height: 350px;
+    margin-right: auto;
+    border-radius: 20;
+    float: left;
+    margin-left: 50px;
+    border-radius: 50px;
+  }
+
+
+   #img:hover {
+   width: 25%;
+   height: 20%;
+}
