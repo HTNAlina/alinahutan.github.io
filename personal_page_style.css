@@ -22,13 +22,10 @@
     margin-top: 90px;
   }
 
-  #reading { list-style-image: url(file:///img/book.svg); }
-  #travelling{ list-style-image: url(file:///img/plane.svg); }
-  #cooking { list-style-image: url(file:///C:/Users/ahuta/Downloads/pizza.svg); }
+  #reading { list-style-image: url(img/book.svg); }
+  #travelling{ list-style-image: url(img/plane.svg); }
+  #cooking { list-style-image: url(img/pizza.svg); }
 
-  #m{
-    list-style-image: url(file:///C:/Users/ahuta/Downloads/facebook-messenger.svg);
-  }
 
   #hobbies{
     font-size: 30px;
