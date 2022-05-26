@@ -1,0 +1,5 @@
+Popescu, Ioan, 29, 3, 0798765890, ioan_pop@gmail.com, 3
+Ionescu, Marcel, 35, 0, 0744765890, marcel_nescu@gmail.com, 3
+Vasilescu, Gabi, 23, 4, 0756445891, gabi_vas@gmail.com, 2
+Sticlescu, Alin, 39, 5, 0778765320, alin_clescu@gmail.com, 2
+Plesescu, Marin, 18, 6, 0748465812, marin_plescu@gmail.com, 1
